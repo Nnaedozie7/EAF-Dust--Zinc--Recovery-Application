@@ -121,13 +121,11 @@ The application consists of:
 3. Process route scoring system
 4. Recommendation output
 
-The interface is implemented using **Streamlit**.
+## References
 
----
-
-## How to Run
-
-Install dependencies:
-
-```bash
-pip install streamlit
+- A Review of Electric arc Furnace Dust (EAFD) Reuse and Recycle Methods. Zahra Khebri1,2 · Zahra Razavi3 · Fatemeh Sadeghian2 · Fahimeh Faqhihi2 ·
+- Pyrometallurgical recovery of zinc and valuable metals from electric arc furnace dust. Jie Wang a, Yingyi Zhang a, b, *, Kunkun Cui a, Tao Fu a, Jianjun Gao c, Shahid Hussain.
+- Hydrometallurgical Processes for the Recovery of Metals from Steel Industry By‑Products. Koen Binnemans1 · Peter Tom Jones2 · Álvaro Manjón Fernández3, Victoria Masaguer Torres3.
+- Optimized Zinc Recovery from Electric Arc Furnace Dust (EAFD). 1*Mizna Juma Al Jabri, 2Sangeetha BM, 3Priy Brat Dwivedi.
+- EAF dust: An overview on the influences of physical, chemical and mineral features in its recycling and waste incorporation routes. Pedro Jorge Walburga Keglevich de Buzina,∗, Nestor Cezar Heckb, Antônio Cezar Faria Vilela.
+- Application of the Waelz Technology on Resource Recycling of Steel Mill Dust. Dr.-Ing. Jürgen Rütten
