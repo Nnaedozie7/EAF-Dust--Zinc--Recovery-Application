@@ -146,7 +146,7 @@ def score_hydromet(zn, hal, pbcd_lvl, moist, available):
 
 def score_landfill_surrogate(zn, hal, pbcd_lvl, moist, waelz_avail, hydro_avail):
     """
-    We include landfill as a 'fallback option' in the ranking even though it isn't a toggle input in the MVP.
+    I included landfill as a 'fallback option' in the ranking even though it isn't a toggle input in the MVP.
     It's helpful for the decision tool: if recovery routes are infeasible, landfill becomes likely.
     """
     score = 0
